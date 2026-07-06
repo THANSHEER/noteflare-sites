@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "my-notes",
+    "description": "Notes published from Sample Notes",
+    "baseUrl": "https://THANSHEER.github.io/noteflare-sites",
+    "language": "en",
+    "author": ""
+  },
+  "theme": {
+    "darkMode": "toggle"
+  },
+  "nav": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Tags",
+      "url": "/tags/"
+    }
+  ],
+  "features": {
+    "search": true,
+    "backlinks": true,
+    "tags": true,
+    "graph": true,
+    "math": true,
+    "syntaxHighlight": true,
+    "rss": true,
+    "sitemap": true
+  },
+  "build": {
+    "contentDir": "content",
+    "outDir": "public"
+  }
+}
