@@ -1,0 +1,10 @@
+{
+  "name": "sfcvvadfvfvfdv",
+  "private": true,
+  "scripts": {
+    "build": "mdgarden build"
+  },
+  "dependencies": {
+    "mdgarden": "latest"
+  }
+}
