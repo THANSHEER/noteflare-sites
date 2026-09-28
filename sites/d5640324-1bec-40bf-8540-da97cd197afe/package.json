@@ -1,0 +1,10 @@
+{
+  "name": "my-notes",
+  "private": true,
+  "scripts": {
+    "build": "mdgarden build"
+  },
+  "dependencies": {
+    "mdgarden": "latest"
+  }
+}
